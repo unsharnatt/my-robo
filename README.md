@@ -39,3 +39,6 @@ To stop the program press CTRL+C
  ./mvn test
 ```
 - check the report at .\target\site\jacoco\index.html
+
+# The system required
+- JDK Java 11 
